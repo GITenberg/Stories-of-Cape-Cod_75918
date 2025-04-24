@@ -1,0 +1,42 @@
+_repo: Stories-of-Cape-Cod_75918
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schreiber, Leo J.
+    birthdate: 1904
+    deathdate: 1992
+    gutenberg_agent_id: '47297'
+    url: http://www.gutenberg.org/2009/agents/47297
+creator:
+  author:
+    agent_name: Johnson, Jack
+    alias: Johnson, John Sperry
+    birthdate: 1896
+    deathdate: 1973
+    gutenberg_agent_id: '58218'
+    url: http://www.gutenberg.org/2009/agents/58218
+description: ''
+gutenberg_issued: '2025-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75918'
+language: en
+pgterms:marc905: 20250128033455johnson
+pgterms:marc906: '1944'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aPlymouth, Massachusetts :$bThe Memorial Press, $c1944, pubdate
+  1945.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cape Cod (Mass.) -- History'
+- !lcc 'F001'
+- GITenberg
+tableOfContents: Bourne -- Sandwich -- Falmouth -- Mashpee -- Barnstable -- Yarmouthport
+  -- Dennis -- Brewster -- Harwich -- Chatham -- Orleans -- Eastham -- South Wellfleet
+  -- Admiral Nimitz -- Truro -- Pioneer trans-Atlantic steamship service -- Provincetown
+  -- Cape Cod fishing -- Cape Cod beacon -- First glider flight in United States.
+title: Stories of Cape Cod
+url: http://www.gutenberg.org/ebooks/75918
