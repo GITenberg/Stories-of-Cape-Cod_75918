@@ -7,6 +7,9 @@ contributor:
     deathdate: 1992
     gutenberg_agent_id: '47297'
     url: http://www.gutenberg.org/2009/agents/47297
+covers:
+- cover_type: archival
+  image_path: 75918-h/images/cover.jpg
 creator:
   author:
     agent_name: Johnson, Jack
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '58218'
     url: http://www.gutenberg.org/2009/agents/58218
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75918#Stories-of-Cape-Cod
 gutenberg_issued: '2025-04-20'
 gutenberg_type: Text
 identifiers:
